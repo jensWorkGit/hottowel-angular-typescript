@@ -1,0 +1,1 @@
+tsd query angular angular-animate angular-mocks angular-sanitize bootstrap --r --o --s --a install
